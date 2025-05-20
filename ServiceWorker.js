@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Vrinvo Ballad-1.1";
 const contentToCache = [
-    "Build/Vrinvo Ballad Build25.loader.js",
-    "Build/Vrinvo Ballad Build25.framework.js",
-    "Build/Vrinvo Ballad Build25.data",
-    "Build/Vrinvo Ballad Build25.wasm",
+    "Build/Vrinvo Ballad Bld.loader.js",
+    "Build/Vrinvo Ballad Bld.framework.js",
+    "Build/Vrinvo Ballad Bld.data",
+    "Build/Vrinvo Ballad Bld.wasm",
     "TemplateData/style.css"
 
 ];
